@@ -1,2 +1,3 @@
-targets/
+target/
 Cargo.lock
+*.sh
